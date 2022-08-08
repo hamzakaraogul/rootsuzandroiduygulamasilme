@@ -42,8 +42,14 @@ Tekrardan bilgisayar ekranına döndükten sonra resimde de gördüğünüz gibi
 
 ./adb shell komutunu yazarak, Android Debug Bridge terminalini başlatınız.
 
+![image](https://user-images.githubusercontent.com/62428397/183449346-593014c8-ad5c-41ca-90d6-9a582412f1de.png)
+
+
 terminal başladıktan sonra ' pm list packages ' komutunu yazarak telefonunuzda yüklü tüm uygulamaları görebilirsiniz.
 ( Örnek: Sadece google uygulamalarını görmek için " pm list package | grep 'google' " yazınız. )
+
+![image](https://user-images.githubusercontent.com/62428397/183449607-aa209121-8592-42ef-acee-3289ba8a90e6.png)
+
 
 Bir uygulamayı silmek için aşağıdaki örnekteki kodu yazabilirsiniz.
 
