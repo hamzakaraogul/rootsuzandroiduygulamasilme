@@ -15,7 +15,8 @@ Telefonu bağlamadan önce;
 
 Ayarlar -> Telefon Hakkında Giriniz.
 
-![InkedScreenshot_20220808-174044_Settings_LI](https://user-images.githubusercontent.com/62428397/183444645-c6a4931b-5448-4218-8102-99ad4edcb50a.jpg)
+
+<img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/62428397/183444645-c6a4931b-5448-4218-8102-99ad4edcb50a.jpg)" width="200">
 
 Yazılım Bilgileri Kısmına Basınız.
 
