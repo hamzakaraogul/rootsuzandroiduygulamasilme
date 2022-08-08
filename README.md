@@ -1,5 +1,7 @@
 # rootsuzandroiduygulamasilme
 Rootsuz Android Uygulama Silmek
+https://www.youtube.com/watch?v=LQx9R3lIp74
+
 
 İlk olarak adb.zip dosyasını indiriniz. 
 ( Ayrıca Link üzerinden https://developer.android.com/studio/releases/platform-tools sitesinde 'Download SDK Platform-Tools for Windows'  windows için indirebilirsiniz.)
