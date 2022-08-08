@@ -1,0 +1,9 @@
+./adb devices  #baglı degilmi bakma
+./adb shell    # adb komut satırı
+
+pm list packages
+pm list package | grep 'google'
+
+pm uninstall -k --user 0 com.google.android.youtube
+
+pm uninstall -k --user 0
