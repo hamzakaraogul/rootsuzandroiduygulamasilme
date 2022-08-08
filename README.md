@@ -22,7 +22,8 @@ Yazılım Bilgileri Kısmına Basınız.
 
 Yapım Numarası kısmına basarak geliştirici seçeneklerini açınız.
 
-![image](https://user-images.githubusercontent.com/62428397/183444850-57e00985-8ca8-4d36-8996-847a9442dbbb.png)
+
+<img src="https://user-images.githubusercontent.com/62428397/183444645-c6a4931b-5448-4218-8102-99ad4edcb50a.jpg" width="200">
 
 Sonrasında geliştiri seçeneklerini açınız.
 
