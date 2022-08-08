@@ -40,3 +40,18 @@ Sonra telefonu bilgisayara bağlarken resimde görüldüğü üzere gelen izin i
 Tekrardan bilgisayar ekranına döndükten sonra resimde de gördüğünüz gibi ./adb device yazdığımızda telefon bağlantısının kurulmuş olduğunu göreceksiniz.
 ![image](https://user-images.githubusercontent.com/62428397/183446486-4dd49803-120d-480d-9570-95d758611f03.png)
 
+./adb shell komutunu yazarak, Android Debug Bridge terminalini başlatınız.
+
+terminal başladıktan sonra ' pm list packages ' komutunu yazarak telefonunuzda yüklü tüm uygulamaları görebilirsiniz.
+( Örnek: Sadece google uygulamalarını görmek için " pm list package | grep 'google' " yazınız. )
+
+Bir uygulamayı silmek için aşağıdaki örnekteki kodu yazabilirsiniz.
+
+pm uninstall -k --user 0 com.google.android.youtube
+
+Yukarıdaki örnekte com.google.android.youtube yazarak youtube uygulamasını silmiş oluyoruz.
+Başka uygulama silmek için pm uninstall -k --user 0 yazısından sonra ' pm list packages ' komutuyla getirmiş olduğumuz uygulama bilgilerinden uygulama silebilirsiniz.
+
+
+
+
